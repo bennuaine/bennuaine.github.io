@@ -1005,7 +1005,8 @@ label {
  padding:16px 32px;
  height:48px;
  text-align:center;
- white-space:nowrap
+ white-space:nowrap;
+ margin: 0 auto;
 }
 .button:hover {
  background:#243d38
